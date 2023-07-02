@@ -3,7 +3,7 @@ Lai Lorenzo
 
 ## Einleitung
 
-In diesem PS1 Projekt handelte es sich, um ein Passwortgenerator.
+In diesem PS1 Projekt handelt es sich, um ein Passwortgenerator.
 
 ## Was habe ich gelernt?
 
@@ -33,14 +33,19 @@ Und hier ist noch alles in einem GIF:
 
 ![ezgif com-gif-to-mp4](https://github.com/Loreytox/LaiLorenzo-Passwortgenerator/assets/110893594/fc2d4458-7ae8-4fec-b574-9a05baa31654)
 
-## Verifikation
-
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
-
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Gut gelaufen👍:
+- Anpassung an diese neue Sprache
+- Anwendung der neuen Befehle
+- Ich konnte alles schnell verstehen und ausprobieren
+- Die gesuchten Informationen und Code-Stücke waren gut verständlich
 
-👎 und etwas, was nicht gut lief.
+Nicht so gut gelaufen👎:
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+- Anwendung von Funktionen
+- Das Verständnis, wie man in Dateien schreibt
+
+Verbesserungsvorschlag:
+
+Eine Verbesserung könnte sein, dem Benutzer eine klare Option anzubieten, um eine neue Datei zu erstellen, anstatt nach dem Namen der TXT-Datei zu fragen. Dies könnte die Benutzerfreundlichkeit erhöhen und potenzielle Fehler vermeiden.
